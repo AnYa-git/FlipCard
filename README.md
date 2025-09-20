@@ -20,9 +20,8 @@ Ce projet affiche une **carte interactive** qui se retourne avec un effet 3D et 
 ## ✨ Aperçu
 
 - Effet **flip 3D** avec `transform` et `backface-visibility`
-- Texte et design personnalisés inspirés de l’univers 🌸 Anya 🌸
 - Ajout d’un **effet sonore** lors du retournement
-- Fond avec **dégradé moderne et élégant**
+- Fond avec **dégradé moderne **
 
 ---
 

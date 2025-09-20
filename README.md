@@ -33,9 +33,13 @@ Ce projet affiche une **carte interactive** qui se retourne avec un effet 3D et 
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Preview du projet](images/screenshot.png)
+### Face avant
+![Preview front](images/screenshot-front.png)
+
+### Face arrière
+![Preview back](images/screenshot-back.png)
 
 ---
 

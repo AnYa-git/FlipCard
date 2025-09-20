@@ -36,9 +36,11 @@ Ce projet affiche une **carte interactive** qui se retourne avec un effet 3D et 
 ## 📸 Screenshots
 
 ### Face avant
+
 ![Preview front](images/screenshot-front.png)
 
 ### Face arrière
+
 ![Preview back](images/screenshot-back.png)
 
 ---
@@ -47,9 +49,9 @@ Ce projet affiche une **carte interactive** qui se retourne avec un effet 3D et 
 
 Apprentissage et pratique des bases du **CSS 3D** et de l’interactivité en JavaScript :
 
-- Gestion de la perspective et des animations en 3D  
-- Utilisation de `hover` et d’événements JS  
-- Intégration d’un effet sonore dans une interaction utilisateur  
+- Gestion de la perspective et des animations en 3D
+- Utilisation de `hover` et d’événements JS
+- Intégration d’un effet sonore dans une interaction utilisateur
 
 ---
 
